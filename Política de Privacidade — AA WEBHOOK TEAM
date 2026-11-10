@@ -1,0 +1,30 @@
+Política de Privacidade — AA WEBHOOK TEAM
+Última atualização: 10 de novembro de 2026
+Esta Política de Privacidade explica como o AA MACRO WEBHOOK (“Aplicativo”) trata as informações relacionadas ao seu funcionamento. O Aplicativo foi concebido para uso pessoal: capturar imagens da tela durante o jogo Anime Adventures e encaminhá-las ao canal do Discord escolhido pelo usuário, por meio de um webhook.
+
+1. Informações tratadas
+Durante o uso, o Aplicativo pode acessar o conteúdo visual exibido na tela para produzir capturas de imagem. Essas imagens podem conter nomes de usuário, mensagens, identificadores do jogo ou outras informações que estejam visíveis na tela no momento da captura. O usuário deve verificar o conteúdo antes de permitir o envio, quando essa opção estiver disponível.
+
+2. Envio ao Discord
+As imagens são encaminhadas ao endereço de webhook configurado pelo usuário e entregues ao canal do Discord associado a esse webhook. O Discord recebe e processa o conteúdo conforme seus próprios termos e sua Política de Privacidade. Depois do envio, a disponibilidade, o armazenamento e a exclusão das imagens no Discord dependem também das configurações e das políticas do Discord e do servidor de destino.
+
+3. Coleta e armazenamento pelo Aplicativo
+O Aplicativo não possui, por sua finalidade descrita, um serviço próprio de contas de usuário ou uma plataforma própria para publicar as capturas. Esta declaração não significa que arquivos temporários, registros técnicos ou dados possam nunca existir no dispositivo ou no ambiente em que o Aplicativo é executado. O usuário deve consultar as configurações e os arquivos do próprio macro para verificar se há armazenamento local ou registros adicionais.
+
+4. Compartilhamento
+O Aplicativo encaminha as imagens ao Discord por instrução e configuração do usuário. Não forneça um webhook destinado a um canal privado a pessoas não autorizadas. Qualquer pessoa que obtenha o endereço do webhook poderá tentar utilizá-lo.
+
+5. Segurança
+Proteja o endereço do webhook como uma credencial. Se ele for divulgado indevidamente, remova ou regenere o webhook nas configurações do Discord. Também recomendamos evitar capturas que exibam senhas, tokens, dados pessoais ou informações privadas.
+
+6. Direitos e solicitações
+Para solicitar esclarecimentos sobre o tratamento de informações pelo Aplicativo, entre em contato com o responsável pelo AA MACRO WEBHOOK pelo mesmo canal ou meio pelo qual você obteve o Aplicativo. Para excluir imagens já enviadas, verifique o canal do Discord e solicite a exclusão ao administrador ou faça a exclusão diretamente, se tiver permissão. O Discord também possui procedimentos próprios para solicitações relacionadas aos dados tratados por seus serviços.
+
+7. Crianças e adolescentes
+O Aplicativo não foi criado para coletar intencionalmente dados pessoais de crianças. O uso deve respeitar os requisitos de idade e as regras dos serviços envolvidos.
+
+8. Alterações desta Política
+Esta Política poderá ser atualizada quando o funcionamento do Aplicativo ou as práticas de tratamento de informações mudarem. A versão vigente será publicada nesta página, com a data de atualização.
+
+9. Contato
+Para dúvidas sobre privacidade, entre em contato com o responsável pelo AA MACRO WEBHOOK pelo mesmo canal ou meio pelo qual você obteve o Aplicativo.
